@@ -33,5 +33,6 @@ This is a food ordering app.
 
 <img src="7.png" height="300em" /> <img src="8.png" height="300em" />
 
+Now you can go and Enjoy the Food.
 
 
